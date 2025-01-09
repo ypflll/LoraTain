@@ -24,6 +24,6 @@
 
 ## 结果
 
-* 使用flux1-dev作为基模，训练lora，模型文件： 
+* 使用flux1-dev作为基模，训练lora，模型文件： https://huggingface.co/grdfh/flux-animate-lora/resolve/main/flux-lora-000015.safetensors?download=true
 * 测试结果见：results/
 * 主要问题：主角的头发颜色没有保持，需要进一步优化
