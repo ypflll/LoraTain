@@ -21,3 +21,9 @@
 * 部署脚本：scripts/start_comfyui.sh
 
 * comfyui workflow: scripts/comfyui-workflow.png
+
+## 结果
+
+* 使用flux1-dev作为基模，训练lora，模型文件： 
+* 测试结果见：results/
+* 主要问题：主角的头发颜色没有保持，需要进一步优化

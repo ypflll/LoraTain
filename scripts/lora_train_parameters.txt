@@ -1,4 +1,4 @@
-pretrained_model_name_or_path = "/root/autodl-tmp/lora-scripts/sd-models/checkpoint/v1-5-pruned-emaonly.safetensors"
+pretrained_model_name_or_path = "/root/autodl-tmp/lora-scripts/sd-models/unet/flux1-dev_unet.safetensors"
 train_data_dir = "/root/autodl-tmp/lora-scripts/train/face512"
 resolution = "512,512"
 enable_bucket = true
